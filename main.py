@@ -2,7 +2,7 @@
 Script Name: main.py
 Description: A script using an input CSV containing subdomains names that will lookup their IPs and use those IPs against the Shodan API to scan for open ports and vulnerabilities.
 Author: Antoine Penin
-Contact: apenin@deloitte.com
+Contact: antoine.penin@hotmail.fr
 Version: 1.0
 """
 
